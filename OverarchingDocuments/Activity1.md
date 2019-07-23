@@ -33,7 +33,15 @@ _EU forest fires emissions_
 Data for 2009 and 2010 were kindly produced by FMI and are available at:
 
 ```
-LINK
+https://drive.google.com/drive/folders/1oBwX01iwE3Qz3S4PTU7d-K5jjFk2GqDH
+```
+
+_NA forest fires emissions_
+
+Be aware that NA FF emissions are already included in the 2010/2016 CB6/SAPRC files EPA had prepared and posted on CMAS:
+
+```
+ https://drive.google.com/drive/folders/1uyMXMs5yDAHNmq58YqJfApkMkrZVZCKW
 ```
 
 _Global data on NOx produced by lightning_
@@ -179,93 +187,21 @@ When reporting the results per land type the numbering in the table should be co
 
 
 
-## Appendix
-This appendix provides evidence of the importance of acquiring the components of two deposition schemes, in order to understand the  different roles that different path ways can have in determining yet comparamble values of total deposition.
+## Appendix 1
+
+Guidelines to the interpretation of the output requested in relation to the various kinds of schemes used within the community. 
+
+## Derived Gas-Phase Deposition Velocity Parameters for AQMEII-4.
+## by P.A. Makar, O. Clifton, D. Schwede, July 15, 2019 (version 6.0)
+
+![AQMEII-4_Reported_gas_phase_deposition_terms_guidance_July15_2019.pdf](AQMEII-4_Reported_gas_phase_deposition_terms_guidance_July15_2019.pdf)
+
+
+## Appendix 2
+
+This appendix provides evidence of the importance of acquiring the components of different deposition schemes, in order to understand the  different roles that different path ways can have in determining  values of total deposition.
 
 ### Incredibly useful diagnostics for dry deposition.
-### by Olivia Clifton (oclifton@ldeo.columbia.edu)
-
-When there is more than one pathway for dry deposition (e.g., soil, stomata, and leaf cuticles for ozone), it is challenging to pinpoint the drivers of trends and inter-model differences in dry deposition without knowledge of individual depositional processes. There are several key variables that need to be archived from models in order to quantify which processes matter most for dry deposition.
-
-Below, we detail the calculation of the “effective conductance” based on two commonly-used resistance frameworks for dry deposition, assuming that dry deposition occurs to plant stomata, leaf cuticles, and soil. The effective conductance for a given depositional pathway is the amount of deposition (in velocity units) that actually occurred through that pathway (i.e., the the effective stomatal conductance divided by the deposition velocity is the fraction of dry deposition that occurs through stomatal uptake).
-
-### Resistance Framework #1
-For gases, deposition velocity (vd) is typically regarded as the inverse of a series of resistances. 
-
-v_d=(R_a+R_b+R_c )^(-1)
-
-Ra is the resistance to above-canopy turbulence, and is typically given as:
-
-R_a=1/(ku^* )[ln((z_r-d)/z_(0,m) )-Ψ_H ((z_r-d)/L)]
-
-k is the von Kármán constant; u* is friction velocity; zr is reference height; d is zero-plane displacement height; z0,m is roughness length for momentum; ѰH is the stability correction function; and L is the Monin-Obukhov length.
-
-Rb is the resistance to molecular diffusion in the small boundary layer between the atmosphere and the surface, and is typically given as:
-R_b=2/(ku^* )(κ/D_x  )^(2⁄3)
-κ is thermal diffusivity of air and Dx is diffusivity of a gas x. 
-
-Rc is the resistance to deposition posed by the stomatal and non-stomatal surfaces. Stomatal and non-stomatal resistances to deposition are added in parallel, but if the surfaces of deposition are at substantially different heights then in-canopy turbulence should be considered. One way of doing this simply is the following:
-
-R_c=g_c^(-1)=1/(R_(c,leaf)^(-1)+(R_ac+R_soil )^(-1) )
-
-R_(c,leaf)=1/(R_s^(-1)+R_cut^(-1) )
-
-This assumes deposition to leaves is at the top of the canopy, thus only the soil deposition is impacted by in-canopy turbulence. We call this Resistance Framework #1 (it is the Wesely [1989]) framework). Rc,leaf is the canopy resistance to leaf deposition, Rac is the in-canopy aerodynamic resistance and Rsoil is the resistance to soil deposition. Rcut is the resistance to cuticular deposition, and Rs is the resistance to stomatal deposition. The inverse of a resistance is a conductance, denoted by “g”. 
-
-The effective conductance (denoted by “eg”) for stomatal deposition is:
-
- eg_s=g_s/g_c  v_d 
-
-The effective conductance for cuticular deposition is:
-
- eg_cut=g_cut/g_c  v_d 
-
-The effective conductance for soil deposition is:
-
- eg_soil=((R_soil+R_ac )^(-1))/g_c  v_d 
-
-### Resistance Framework #2
-Another commonly used resistance framework for dry deposition more accurately considers deposition to different surfaces by distinguishing between Rb to the soil vs. leaves (e.g., Massman [2004]). We call this Resistance Framework #2.
-
-v_d=(R_a+1/(1/(R_(b,leaf)+R_(c,leaf) )+1/(R_ac+R_(b,soil)+R_soil )) )^(-1)
-
-For this resistance framework, the calculation of the effective conductance is slightly different. In the below equation for egs, vd is scaled by the stomatal fraction of leaf deposition (i.e., stomatal and cuticular deposition) and the leaf fraction of the total deposition.
-
-eg_s=g_s/(g_s+g_cut )  (1/(R_(b,leaf)+R_(c,leaf) ))/(1/(R_(b,leaf)+R_(c,leaf) )+1/(R_ac+R_(b,soil)+R_soil )) v_d 
-
-The calculation of egcut is similar to egs (i.e., replace the first term, the stomatal fraction of leaf deposition, with the cuticular fraction of leaf deposition).
-
-eg_cut=g_cut/(g_s+g_cut )  (1/(R_(b,leaf)+R_(c,leaf) ))/(1/(R_(b,leaf)+R_(c,leaf) )+1/(R_ac+R_(b,soil)+R_soil )) v_d
-
-The calculation of egsoil only includes the soil fraction of the total deposition and vd.
-
-eg_soil=(1/(R_ac+R_(b,soil)+R_soil ))/(1/(R_(b,leaf)+R_(c,leaf) )+1/(R_ac+R_(b,soil)+R_soil )) v_d
-
-We plug made-up conductances (i.e., gcut, gs, gsoil, Rb-1 (Rb,leaf-1 for Resistance Framework #2), Rb,soil-1 (only for Resistance Framework #2), Ra-1, and Rac-1 into Resistance Frameworks #1 and #2). The conductances used are shown in Figure 1a and 1b. Figure 1c shows that the deposition velocities estimated using these conductances and the different frameworks. Figures 2a and 2c show the effective conductances for stomatal, cuticular, and soil deposition for the respective frameworks. Evident from the comparison of Figure 1a and Figures 2a and 2c, the effective conductances do not have the same magnitude or variability as the conductances. The contribution of each depositional pathway to the deposition velocity, calculated with the effective conductances, in shown in Figures 2b and 2d, illustrating how they can be used to examine the contribution of the deposition pathways to the deposition velocity.
-Figure 1. Made-up hourly conductances for stomatal (S), cuticular (CUT) and soil deposition pathways in A), and for transport processes in b). deposition velocities calculated with quantities in a) and B) and the two resistance frameworks. 
-
-![Screenshot](1.png)
-
-Figure 1. Made-up hourly conductances for stomatla (S), cuticular (CUT) and soil deposition pathways in A) and for transport processes in B). Deposition velocities Calculated with quantities in A) and B) and the two resistance frameworks
-
-
-![Screenshot](2.png)
-
-Figure 2. Hourly Individual Effective conductances for stomatal (S), CUTICUlar (CUT) and soil deposition pathways in A) and c) for each resistance framework. The sum of the effective conductances (i.e., the deposition velocity) in b) and D) for each resistance framework. 
-
-
-#### Takeaway points.
-```
-1. Calculation of effective conductances will depend on resistance framework used
-2. Calculation of effective conductances can be done using archived fields, but all the components of the resistance framework need to be archived
-3. Examining both the conductances and effective conductances is helpful to answer the following science questions:
-4. Which processes drive spatiotemporal variability and trends and inter-model differences in dry deposition?
-5. How much do changes in a given process matter for changes in dry deposition?
-```
+### by Olivia Clifton (oclifton@ucar.edu)
 For detailed formulation downlowd the original document: ![Clifton_pdf](Clifton_diagnostics_AQMEII.pdf)
-
-### References.
-Massman, W. J. (2004). Toward an ozone standard to protect vegetation based on effective dose: a review of deposition resistances and a possible metric. Atmospheric Environment, 38, 2323-2337.
-
-Wesely, M. L. (1989). Parameterization of surface resistances to gaseous dry deposition in regional-scale numerical models. Atmospheric Environment, 23(6), 1293-1304.
 
