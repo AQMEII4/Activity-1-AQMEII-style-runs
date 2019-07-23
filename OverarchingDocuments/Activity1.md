@@ -201,7 +201,5 @@ Guidelines to the interpretation of the output requested in relation to the vari
 
 This appendix provides evidence of the importance of acquiring the components of different deposition schemes, in order to understand the  different roles that different path ways can have in determining  values of total deposition.
 
-### Incredibly useful diagnostics for dry deposition.
-### by Olivia Clifton (oclifton@ucar.edu)
-For detailed formulation downlowd the original document: ![Clifton_pdf](Clifton_diagnostics_AQMEII.pdf)
+![Clifton_pdf](Clifton_diagnostics_AQMEII.pdf)
 
