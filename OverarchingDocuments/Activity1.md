@@ -189,17 +189,14 @@ When reporting the results per land type the numbering in the table should be co
 
 ## Appendix 1
 
-Guidelines to the interpretation of the output requested in relation to the various kinds of schemes used within the community. 
-
-## Derived Gas-Phase Deposition Velocity Parameters for AQMEII-4.
-## by P.A. Makar, O. Clifton, D. Schwede, July 15, 2019 (version 6.0)
+Guidelines to the interpretation of the output requested in relation to the various kinds of schemes used within the community.  by P.A. Makar, O. Clifton, D. Schwede, July 15, 2019 (version 6.0)
 
 ![AQMEII-4_Reported_gas_phase_deposition_terms_guidance_July15_2019.pdf](AQMEII-4_Reported_gas_phase_deposition_terms_guidance_July15_2019.pdf)
 
 
 ## Appendix 2
 
-This appendix provides evidence of the importance of acquiring the components of different deposition schemes, in order to understand the  different roles that different path ways can have in determining  values of total deposition.
+This appendix provides evidence of the importance of acquiring the components of different deposition schemes, in order to understand the  different roles that different path ways can have in determining  values of total deposition. by O. Clifton
 
 ![Clifton_pdf](Clifton_diagnostics_AQMEII.pdf)
 
