@@ -25,7 +25,7 @@ Protocol           : FTP
 Encryption         : Require explicit FTP over TLS
 Logon type         : normal
 User               : macc_iii@ftp0015.web-ftp81
-Password           : AH2qzFtK64Uw
+Password           : ***
 ```
 
 _EU forest fires emissions_
@@ -66,7 +66,7 @@ Data, kindly provided by ECMWF, are available at:
 ```
 ftp server      : dissemination.ecmwf.int
 username        : htap
-password        : dh45ya09
+password        : ***
 Data directory  : DATA/MACC_HTAP/eac4
 
 or at:
@@ -124,7 +124,7 @@ _AQMEII4 sequences (SSSS) are:_
 ```
 
 ### 1. Output at all gridpoints 
-The variables requested at every grid point of the coommon grid as described in the classifications above mentioned are presented in:
+The variables requested at every grid point of the common grid as described in the classifications above mentioned are presented in:
 
 - [NA2010](../domains/NA2010/0241/)
 - [NA2016](../domains/NA2016/0251/)
