@@ -24,7 +24,7 @@ Host               : web-ftp81.tno.nl
 Protocol           : FTP
 Encryption         : Require explicit FTP over TLS
 Logon type         : normal
-User               : macc_iii@ftp0015.web-ftp81
+User               : ***
 Password           : ***
 ```
 
@@ -65,7 +65,7 @@ Data, kindly provided by ECMWF, are available at:
 
 ```
 ftp server      : dissemination.ecmwf.int
-username        : htap
+username        : ***
 password        : ***
 Data directory  : DATA/MACC_HTAP/eac4
 
