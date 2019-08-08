@@ -1,8 +1,8 @@
 # 0241-001
 ### Gas and Particle Concentrations plus Emissions
-### Technical Specification Document: [ensemble-tsd-0241-001.pdf](../tsd/ensemble-tsd-0241-001.pdf)
-### Metafile: [0241-001.src](../src/0241-001.src)
-### CF file: [0241-001.cf](../cf/0241-001.cf)
+### Technical Specification Document: ensemble-tsd-0241-001.pdf
+### Metafile: 0241-001.src
+### CF file: 0241-001.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|SO2|Concentration of SO2 @ 0 m, ppb, 0.01, -9|N / D, AVG / M, AVG / P, AVG|

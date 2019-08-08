@@ -1,8 +1,8 @@
 # 0241-382
 ### Land Use Type 13 Gas Dry Deposition Parameters for HNO4, N3O5, ONIT, O3, H2O2, HCHO
-### Technical Specification Document: [ensemble-tsd-0241-382.pdf](../tsd/ensemble-tsd-0241-382.pdf)
-### Metafile: [0241-382.src](../src/0241-382.src)
-### CF file: [0241-382.cf](../cf/0241-382.cf)
+### Technical Specification Document: ensemble-tsd-0241-382.pdf
+### Metafile: 0241-382.src
+### CF file: 0241-382.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-HNO4-13|AQMEII4 Land Type 13 Deposition Velocity, cm-1 s, 0.001, -9|MD|

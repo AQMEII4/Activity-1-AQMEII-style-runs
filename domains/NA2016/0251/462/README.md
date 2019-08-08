@@ -1,8 +1,8 @@
 # 0251-462
 ### AQMEII4 Land Type Categories
-### Technical Specification Document: [ensemble-tsd-0251-462.pdf](../tsd/ensemble-tsd-0251-462.pdf)
-### Metafile: [0251-462.src](../src/0251-462.src)
-### CF file: [0251-462.cf](../cf/0251-462.cf)
+### Technical Specification Document: ensemble-tsd-0251-462.pdf
+### Metafile: 0251-462.src
+### CF file: 0251-462.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|REPRTDLANDUSE01|Fraction of AQMEII4 Land Type Category 1 in AQMEII-4 Grid Cell mapped from Model Grid Cells (Water), unitless fraction, 0.01, -9|N|

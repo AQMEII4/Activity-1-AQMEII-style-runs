@@ -1,8 +1,8 @@
 # 0241-352
 ### Land Use Type 12 Gas Dry Deposition Parameters for SO2, NO2, NO, HNO3, NH3, PAN
-### Technical Specification Document: [ensemble-tsd-0241-352.pdf](../tsd/ensemble-tsd-0241-352.pdf)
-### Metafile: [0241-352.src](../src/0241-352.src)
-### CF file: [0241-352.cf](../cf/0241-352.cf)
+### Technical Specification Document: ensemble-tsd-0241-352.pdf
+### Metafile: 0241-352.src
+### CF file: 0241-352.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-SO2-12|AQMEII4 Land Type 12 Deposition Velocity, cm-1 s, 0.001, -9|MD|

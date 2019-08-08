@@ -1,8 +1,8 @@
 # 0251-002
 ### Wet and Dry Deposition Fluxes (defined positive for downwards to the surface) plus aerodynamic resistance
-### Technical Specification Document: [ensemble-tsd-0251-002.pdf](../tsd/ensemble-tsd-0251-002.pdf)
-### Metafile: [0251-002.src](../src/0251-002.src)
-### CF file: [0251-002.cf](../cf/0251-002.cf)
+### Technical Specification Document: ensemble-tsd-0251-002.pdf
+### Metafile: 0251-002.src
+### CF file: 0251-002.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|WFLUX-HSO3-|Wet deposition flux of HSO3- ion, eq ha-1, 0.001, -9|N / M, AVG / P, AVG / MD|

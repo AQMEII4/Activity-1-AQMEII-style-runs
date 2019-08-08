@@ -1,8 +1,8 @@
 # 0351-062
 ### PAN Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0351-062.pdf](../tsd/ensemble-tsd-0351-062.pdf)
-### Metafile: [0351-062.src](../src/0351-062.src)
-### CF file: [0351-062.cf](../cf/0351-062.cf)
+### Technical Specification Document: ensemble-tsd-0351-062.pdf
+### Metafile: 0351-062.src
+### CF file: 0351-062.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-PAN|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

@@ -1,8 +1,8 @@
 # 0341-302
 ### Land Use Type 09 Gas Dry Deposition Parameters for HNO4, N3O5, ONIT, O3, H2O2, HCHO
-### Technical Specification Document: [ensemble-tsd-0341-302.pdf](../tsd/ensemble-tsd-0341-302.pdf)
-### Metafile: [0341-302.src](../src/0341-302.src)
-### CF file: [0341-302.cf](../cf/0341-302.cf)
+### Technical Specification Document: ensemble-tsd-0341-302.pdf
+### Metafile: 0341-302.src
+### CF file: 0341-302.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-HNO4-09|AQMEII4 Land Type 09 Deposition Velocity, cm-1 s, 0.001, -9|MD|

@@ -1,8 +1,8 @@
 # 0351-442
 ### Land Use Type 16 Gas Dry Deposition Parameters for HNO4, N3O5, ONIT, O3, H2O2, HCHO
-### Technical Specification Document: [ensemble-tsd-0351-442.pdf](../tsd/ensemble-tsd-0351-442.pdf)
-### Metafile: [0351-442.src](../src/0351-442.src)
-### CF file: [0351-442.cf](../cf/0351-442.cf)
+### Technical Specification Document: ensemble-tsd-0351-442.pdf
+### Metafile: 0351-442.src
+### CF file: 0351-442.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-HNO4-16|AQMEII4 Land Type 16 Deposition Velocity, cm-1 s, 0.001, -9|MD|

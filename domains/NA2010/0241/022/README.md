@@ -1,8 +1,8 @@
 # 0241-022
 ### NO2 Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0241-022.pdf](../tsd/ensemble-tsd-0241-022.pdf)
-### Metafile: [0241-022.src](../src/0241-022.src)
-### CF file: [0241-022.cf](../cf/0241-022.cf)
+### Technical Specification Document: ensemble-tsd-0241-022.pdf
+### Metafile: 0241-022.src
+### CF file: 0241-022.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-NO2|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

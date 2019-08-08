@@ -1,8 +1,8 @@
 # 0241-052
 ### NH3 Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0241-052.pdf](../tsd/ensemble-tsd-0241-052.pdf)
-### Metafile: [0241-052.src](../src/0241-052.src)
-### CF file: [0241-052.cf](../cf/0241-052.cf)
+### Technical Specification Document: ensemble-tsd-0241-052.pdf
+### Metafile: 0241-052.src
+### CF file: 0241-052.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-NH3|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

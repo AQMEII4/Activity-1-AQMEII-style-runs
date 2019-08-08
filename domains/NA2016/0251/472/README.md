@@ -1,8 +1,8 @@
 # 0251-472
 ### Native Land Use Categories
-### Technical Specification Document: [ensemble-tsd-0251-472.pdf](../tsd/ensemble-tsd-0251-472.pdf)
-### Metafile: [0251-472.src](../src/0251-472.src)
-### CF file: [0251-472.cf](../cf/0251-472.cf)
+### Technical Specification Document: ensemble-tsd-0251-472.pdf
+### Metafile: 0251-472.src
+### CF file: 0251-472.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|NATIVELANDUSE01|Fraction of Native Land Use Category 1 in AQMEII-4 Grid Cell mapped from Model Grid Cells, unitless fraction, 0.01, -9|N|

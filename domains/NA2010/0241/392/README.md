@@ -1,8 +1,8 @@
 # 0241-392
 ### Land Use Type 14 Gas Dry Deposition Parameters for SO2, NO2, NO, HNO3, NH3, PAN
-### Technical Specification Document: [ensemble-tsd-0241-392.pdf](../tsd/ensemble-tsd-0241-392.pdf)
-### Metafile: [0241-392.src](../src/0241-392.src)
-### CF file: [0241-392.cf](../cf/0241-392.cf)
+### Technical Specification Document: ensemble-tsd-0241-392.pdf
+### Metafile: 0241-392.src
+### CF file: 0241-392.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-SO2-14|AQMEII4 Land Type 14 Deposition Velocity, cm-1 s, 0.001, -9|MD|

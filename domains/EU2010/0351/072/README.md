@@ -1,8 +1,8 @@
 # 0351-072
 ### HNO4 Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0351-072.pdf](../tsd/ensemble-tsd-0351-072.pdf)
-### Metafile: [0351-072.src](../src/0351-072.src)
-### CF file: [0351-072.cf](../cf/0351-072.cf)
+### Technical Specification Document: ensemble-tsd-0351-072.pdf
+### Metafile: 0351-072.src
+### CF file: 0351-072.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-HNO4|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

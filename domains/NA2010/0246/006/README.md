@@ -1,8 +1,8 @@
 # 0246-006
 ### Verical profiles
-### Technical Specification Document: [ensemble-tsd-0246-006.pdf](../tsd/ensemble-tsd-0246-006.pdf)
-### Metafile: [0246-006.src](../src/0246-006.src)
-### CF file: [0246-006.cf](../cf/0246-006.cf)
+### Technical Specification Document: ensemble-tsd-0246-006.pdf
+### Metafile: 0246-006.src
+### CF file: 0246-006.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|SO2|Concentration of SO2, ppb, 0.01, -9|N / D, AVG / M, AVG / P, AVG|

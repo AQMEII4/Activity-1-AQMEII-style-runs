@@ -1,8 +1,8 @@
 # 0241-012
 ### SO2 Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0241-012.pdf](../tsd/ensemble-tsd-0241-012.pdf)
-### Metafile: [0241-012.src](../src/0241-012.src)
-### CF file: [0241-012.cf](../cf/0241-012.cf)
+### Technical Specification Document: ensemble-tsd-0241-012.pdf
+### Metafile: 0241-012.src
+### CF file: 0241-012.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-SO2|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

@@ -1,8 +1,8 @@
 # 0251-142
 ### Land Use Type 01 Gas Dry Deposition Parameters for HNO4, N3O5, ONIT, O3, H2O2, HCHO
-### Technical Specification Document: [ensemble-tsd-0251-142.pdf](../tsd/ensemble-tsd-0251-142.pdf)
-### Metafile: [0251-142.src](../src/0251-142.src)
-### CF file: [0251-142.cf](../cf/0251-142.cf)
+### Technical Specification Document: ensemble-tsd-0251-142.pdf
+### Metafile: 0251-142.src
+### CF file: 0251-142.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-HNO4-01|AQMEII4 Land Type 01 Deposition Velocity, cm-1 s, 0.001, -9|MD|

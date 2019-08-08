@@ -1,8 +1,8 @@
 # 0351-452
 ### Ammonia Bidirectional Flux Parameters
-### Technical Specification Document: [ensemble-tsd-0351-452.pdf](../tsd/ensemble-tsd-0351-452.pdf)
-### Metafile: [0351-452.src](../src/0351-452.src)
-### CF file: [0351-452.cf](../cf/0351-452.cf)
+### Technical Specification Document: ensemble-tsd-0351-452.pdf
+### Metafile: 0351-452.src
+### CF file: 0351-452.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|CONC-NH3-AIR|Air concentration of ammonia used for bi-directional flux calculations, ppbv, 0.001, -9|N / M, AVG / P, AVG|

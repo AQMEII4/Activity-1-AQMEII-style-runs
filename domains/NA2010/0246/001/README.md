@@ -1,8 +1,8 @@
 # 0246-001
 ### Gas Phase
-### Technical Specification Document: [ensemble-tsd-0246-001.pdf](../tsd/ensemble-tsd-0246-001.pdf)
-### Metafile: [0246-001.src](../src/0246-001.src)
-### CF file: [0246-001.cf](../cf/0246-001.cf)
+### Technical Specification Document: ensemble-tsd-0246-001.pdf
+### Metafile: 0246-001.src
+### CF file: 0246-001.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|SO2|Concentration of SO2 @ 0 m, ppb, 0.01, -9|N / D, AVG / M, AVG / P, AVG|
