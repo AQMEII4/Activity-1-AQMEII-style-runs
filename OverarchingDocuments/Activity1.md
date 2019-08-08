@@ -134,9 +134,9 @@ The variables requested at every grid point of the coommon grid as described in 
 ### 2. Output at receptors
 The variables requested at every receptor as described in the classifications above mentioned are presented in:
 
-- [NA2010](../domains/NA2010/0246/), 
-- [NA2016](../domains/NA2016/0256/), 
-- [EU2009](../domains/EU2009/0346/), 
+- [NA2010](../domains/NA2010/0246/) 
+- [NA2016](../domains/NA2016/0256/) 
+- [EU2009](../domains/EU2009/0346/) 
 - [EU2010](../domains/EU2010/0356/)
 
 For every set of variables presented, the corresponding Technical Specification Document (TSD) see next sectiion, and metafile for the encoding precedure is included in the corresponding directory.
