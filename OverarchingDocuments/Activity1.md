@@ -144,7 +144,7 @@ For every set of variables presented, the corresponding Technical Specification 
 
 ## Submitting model output to ENSEMBLE: Technical Specification Documents, Metafiles, and ENFORM
 
-Prior to the preparation of the output, we strongly advice all particpants to read the document in Appendix one which gives the rational behind the variable selection how to interpret themaccording to the varous schemes used.
+Prior to the preparation of the output, we strongly advice all participants to read the document in Appendix one which gives the rational behind the variable selection how to interpret themaccording to the varous schemes used.
 
 Information relating to submission of model results for the runs to be performed for the XX20YY (where XX will be NA and EU for the North American and European case respectively and YY for the corresponding years) case study is contained in the archive file named “TSD-metafile-enform-XX20YY-2D.zip” that will be delivered to you following your request of a user ID and password to access to input data.
 
