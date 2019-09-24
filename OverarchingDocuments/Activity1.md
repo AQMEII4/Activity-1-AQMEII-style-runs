@@ -20,12 +20,12 @@ _EU anthropogenic emissions_
 Data for 2009 and 2010 are available at:
 
 ```
-Host               : web-ftp81.tno.nl
-Protocol           : FTP
-Encryption         : Require explicit FTP over TLS
-Logon type         : normal
-User               : ***
-Password           : ***
+Host            : web-ftp81.tno.nl
+Protocol        : FTP
+Encryption      : Require explicit FTP over TLS
+Logon type      : normal
+User            : macc_iii@ftp0015.web-ftp81
+Password        : AH2qzFtK64Uw
 ```
 
 _EU forest fires emissions_
@@ -65,8 +65,8 @@ Data, kindly provided by ECMWF, are available at:
 
 ```
 ftp server      : dissemination.ecmwf.int
-username        : ***
-password        : ***
+username        : htap
+password        : dh45ya09
 Data directory  : DATA/MACC_HTAP/eac4
 
 or at:
