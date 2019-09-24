@@ -1,8 +1,8 @@
 # 0241-322
 ### Land Use Type 10 Gas Dry Deposition Parameters for HNO4, N3O5, ONIT, O3, H2O2, HCHO
-### Technical Specification Document: [ensemble-tsd-0241-322.pdf](../tsd/ensemble-tsd-0241-322.pdf)
-### Metafile: [0241-322.src](../src/0241-322.src)
-### CF file: [0241-322.cf](../cf/0241-322.cf)
+### Technical Specification Document: ensemble-tsd-0241-322.pdf
+### Metafile: 0241-322.src
+### CF file: 0241-322.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-HNO4-10|AQMEII4 Land Type 10 Deposition Velocity, cm-1 s, 0.001, -9|MD|

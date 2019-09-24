@@ -1,8 +1,8 @@
 # 0251-005
 ### Meteorology
-### Technical Specification Document: [ensemble-tsd-0251-005.pdf](../tsd/ensemble-tsd-0251-005.pdf)
-### Metafile: [0251-005.src](../src/0251-005.src)
-### CF file: [0251-005.cf](../cf/0251-005.cf)
+### Technical Specification Document: ensemble-tsd-0251-005.pdf
+### Metafile: 0251-005.src
+### CF file: 0251-005.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|PRECIP|Sum of all Precipitation, cm, 0.01, -9|N / M,AVG / MD|

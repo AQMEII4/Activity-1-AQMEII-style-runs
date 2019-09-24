@@ -1,8 +1,8 @@
 # 0251-102
 ### O3 Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0251-102.pdf](../tsd/ensemble-tsd-0251-102.pdf)
-### Metafile: [0251-102.src](../src/0251-102.src)
-### CF file: [0251-102.cf](../cf/0251-102.cf)
+### Technical Specification Document: ensemble-tsd-0251-102.pdf
+### Metafile: 0251-102.src
+### CF file: 0251-102.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-O3|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

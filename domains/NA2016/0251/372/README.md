@@ -1,8 +1,8 @@
 # 0251-372
 ### Land Use Type 13 Gas Dry Deposition Parameters for SO2, NO2, NO, HNO3, NH3, PAN
-### Technical Specification Document: [ensemble-tsd-0251-372.pdf](../tsd/ensemble-tsd-0251-372.pdf)
-### Metafile: [0251-372.src](../src/0251-372.src)
-### CF file: [0251-372.cf](../cf/0251-372.cf)
+### Technical Specification Document: ensemble-tsd-0251-372.pdf
+### Metafile: 0251-372.src
+### CF file: 0251-372.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-SO2-13|AQMEII4 Land Type 13 Deposition Velocity, cm-1 s, 0.001, -9|MD|

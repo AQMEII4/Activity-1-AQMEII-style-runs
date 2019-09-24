@@ -1,8 +1,8 @@
 # 0351-082
 ### N2O5 Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0351-082.pdf](../tsd/ensemble-tsd-0351-082.pdf)
-### Metafile: [0351-082.src](../src/0351-082.src)
-### CF file: [0351-082.cf](../cf/0351-082.cf)
+### Technical Specification Document: ensemble-tsd-0351-082.pdf
+### Metafile: 0351-082.src
+### CF file: 0351-082.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-N2O5|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

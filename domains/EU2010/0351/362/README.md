@@ -1,8 +1,8 @@
 # 0351-362
 ### Land Use Type 12 Gas Dry Deposition Parameters for HNO4, N3O5, ONIT, O3, H2O2, HCHO
-### Technical Specification Document: [ensemble-tsd-0351-362.pdf](../tsd/ensemble-tsd-0351-362.pdf)
-### Metafile: [0351-362.src](../src/0351-362.src)
-### CF file: [0351-362.cf](../cf/0351-362.cf)
+### Technical Specification Document: ensemble-tsd-0351-362.pdf
+### Metafile: 0351-362.src
+### CF file: 0351-362.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-HNO4-12|AQMEII4 Land Type 12 Deposition Velocity, cm-1 s, 0.001, -9|MD|

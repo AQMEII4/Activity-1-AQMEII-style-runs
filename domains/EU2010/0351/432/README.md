@@ -1,8 +1,8 @@
 # 0351-432
 ### Land Use Type 16 Gas Dry Deposition Parameters for SO2, NO2, NO, HNO3, NH3, PAN
-### Technical Specification Document: [ensemble-tsd-0351-432.pdf](../tsd/ensemble-tsd-0351-432.pdf)
-### Metafile: [0351-432.src](../src/0351-432.src)
-### CF file: [0351-432.cf](../cf/0351-432.cf)
+### Technical Specification Document: ensemble-tsd-0351-432.pdf
+### Metafile: 0351-432.src
+### CF file: 0351-432.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-SO2-16|AQMEII4 Land Type 16 Deposition Velocity, cm-1 s, 0.001, -9|MD|

@@ -1,8 +1,8 @@
 # 0241-122
 ### HCHO Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0241-122.pdf](../tsd/ensemble-tsd-0241-122.pdf)
-### Metafile: [0241-122.src](../src/0241-122.src)
-### CF file: [0241-122.cf](../cf/0241-122.cf)
+### Technical Specification Document: ensemble-tsd-0241-122.pdf
+### Metafile: 0241-122.src
+### CF file: 0241-122.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-HCHO|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

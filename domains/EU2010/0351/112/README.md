@@ -1,8 +1,8 @@
 # 0351-112
 ### H2O2 Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0351-112.pdf](../tsd/ensemble-tsd-0351-112.pdf)
-### Metafile: [0351-112.src](../src/0351-112.src)
-### CF file: [0351-112.cf](../cf/0351-112.cf)
+### Technical Specification Document: ensemble-tsd-0351-112.pdf
+### Metafile: 0351-112.src
+### CF file: 0351-112.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-H2O2|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

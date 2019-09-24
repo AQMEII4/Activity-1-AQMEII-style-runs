@@ -1,8 +1,8 @@
 # 0341-412
 ### Land Use Type 15 Gas Dry Deposition Parameters for SO2, NO2, NO, HNO3, NH3, PAN
-### Technical Specification Document: [ensemble-tsd-0341-412.pdf](../tsd/ensemble-tsd-0341-412.pdf)
-### Metafile: [0341-412.src](../src/0341-412.src)
-### CF file: [0341-412.cf](../cf/0341-412.cf)
+### Technical Specification Document: ensemble-tsd-0341-412.pdf
+### Metafile: 0341-412.src
+### CF file: 0341-412.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-SO2-15|AQMEII4 Land Type 15 Deposition Velocity, cm-1 s, 0.001, -9|MD|

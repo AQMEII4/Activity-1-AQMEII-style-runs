@@ -1,8 +1,8 @@
 # 0351-172
 ### Land Use Type 03 Gas Dry Deposition Parameters for SO2, NO2, NO, HNO3, NH3, PAN
-### Technical Specification Document: [ensemble-tsd-0351-172.pdf](../tsd/ensemble-tsd-0351-172.pdf)
-### Metafile: [0351-172.src](../src/0351-172.src)
-### CF file: [0351-172.cf](../cf/0351-172.cf)
+### Technical Specification Document: ensemble-tsd-0351-172.pdf
+### Metafile: 0351-172.src
+### CF file: 0351-172.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-SO2-03|AQMEII4 Land Type 03 Deposition Velocity, cm-1 s, 0.001, -9|MD|

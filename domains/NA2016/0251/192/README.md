@@ -1,8 +1,8 @@
 # 0251-192
 ### Land Use Type 04 Gas Dry Deposition Parameters for SO2, NO2, NO, HNO3, NH3, PAN
-### Technical Specification Document: [ensemble-tsd-0251-192.pdf](../tsd/ensemble-tsd-0251-192.pdf)
-### Metafile: [0251-192.src](../src/0251-192.src)
-### CF file: [0251-192.cf](../cf/0251-192.cf)
+### Technical Specification Document: ensemble-tsd-0251-192.pdf
+### Metafile: 0251-192.src
+### CF file: 0251-192.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-SO2-04|AQMEII4 Land Type 04 Deposition Velocity, cm-1 s, 0.001, -9|MD|

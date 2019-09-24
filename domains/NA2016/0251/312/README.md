@@ -1,8 +1,8 @@
 # 0251-312
 ### Land Use Type 10 Gas Dry Deposition Parameters for SO2, NO2, NO, HNO3, NH3, PAN
-### Technical Specification Document: [ensemble-tsd-0251-312.pdf](../tsd/ensemble-tsd-0251-312.pdf)
-### Metafile: [0251-312.src](../src/0251-312.src)
-### CF file: [0251-312.cf](../cf/0251-312.cf)
+### Technical Specification Document: ensemble-tsd-0251-312.pdf
+### Metafile: 0251-312.src
+### CF file: 0251-312.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-SO2-10|AQMEII4 Land Type 10 Deposition Velocity, cm-1 s, 0.001, -9|MD|

@@ -1,8 +1,8 @@
 # 0251-092
 ### ONIT Net Gas Dry Deposition Parameters
-### Technical Specification Document: [ensemble-tsd-0251-092.pdf](../tsd/ensemble-tsd-0251-092.pdf)
-### Metafile: [0251-092.src](../src/0251-092.src)
-### CF file: [0251-092.cf](../cf/0251-092.cf)
+### Technical Specification Document: ensemble-tsd-0251-092.pdf
+### Metafile: 0251-092.src
+### CF file: 0251-092.cf
 |Code|Variable|Description,units,rounding,missing code|Postprocessing|
 |:-:|:-|:-|:-|
 |01|VD-ONIT|Net Deposition Velocity, cm s-1, 0.001, -9|MD|

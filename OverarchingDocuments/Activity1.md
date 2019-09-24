@@ -20,12 +20,12 @@ _EU anthropogenic emissions_
 Data for 2009 and 2010 are available at:
 
 ```
-Host               : web-ftp81.tno.nl
-Protocol           : FTP
-Encryption         : Require explicit FTP over TLS
-Logon type         : normal
-User               : macc_iii@ftp0015.web-ftp81
-Password           : AH2qzFtK64Uw
+Host            : web-ftp81.tno.nl
+Protocol        : FTP
+Encryption      : Require explicit FTP over TLS
+Logon type      : normal
+User            : macc_iii@ftp0015.web-ftp81
+Password        : AH2qzFtK64Uw
 ```
 
 _EU forest fires emissions_
@@ -124,7 +124,7 @@ _AQMEII4 sequences (SSSS) are:_
 ```
 
 ### 1. Output at all gridpoints 
-The variables requested at every grid point of the coommon grid as described in the classifications above mentioned are presented in:
+The variables requested at every grid point of the common grid as described in the classifications above mentioned are presented in:
 
 - [NA2010](../domains/NA2010/0241/)
 - [NA2016](../domains/NA2016/0251/)
@@ -134,9 +134,9 @@ The variables requested at every grid point of the coommon grid as described in 
 ### 2. Output at receptors
 The variables requested at every receptor as described in the classifications above mentioned are presented in:
 
-- [NA2010](../domains/NA2010/0246/), 
-- [NA2016](../domains/NA2016/0256/), 
-- [EU2009](../domains/EU2009/0346/), 
+- [NA2010](../domains/NA2010/0246/) 
+- [NA2016](../domains/NA2016/0256/) 
+- [EU2009](../domains/EU2009/0346/) 
 - [EU2010](../domains/EU2010/0356/)
 
 For every set of variables presented, the corresponding Technical Specification Document (TSD) see next sectiion, and metafile for the encoding precedure is included in the corresponding directory.
@@ -144,7 +144,7 @@ For every set of variables presented, the corresponding Technical Specification 
 
 ## Submitting model output to ENSEMBLE: Technical Specification Documents, Metafiles, and ENFORM
 
-Prior to the preparation of the output, we strongly advice all particpanta to read the document in Appendix one which gives the rational behind the variable selection how to interpret themaccording to the varous schemes used.
+Prior to the preparation of the output, we strongly advice all participants to read the document in Appendix one which gives the rational behind the variable selection how to interpret themaccording to the varous schemes used.
 
 Information relating to submission of model results for the runs to be performed for the XX20YY (where XX will be NA and EU for the North American and European case respectively and YY for the corresponding years) case study is contained in the archive file named “TSD-metafile-enform-XX20YY-2D.zip” that will be delivered to you following your request of a user ID and password to access to input data.
 
