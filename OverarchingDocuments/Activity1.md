@@ -202,3 +202,11 @@ This appendix provides evidence of the importance of acquiring the components of
 
 [download](Clifton_diagnostics_AQMEII.pdf)
 
+## Appendix 3
+
+This appendix provides example spatial maps of the requested output variables from several participating models. The current examples were provided by A. Lupascu for WRF-Chem and P. Makar for GEM-MACH.
+
+[WRF-Chem Example](./WRF-Chem_Example_deposition_variables.pdf)
+
+[GEM-MACH example](./GEM-MACH_Example-Net_Values_All.pdf)
+
