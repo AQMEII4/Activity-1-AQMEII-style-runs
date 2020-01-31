@@ -24,4 +24,17 @@
 |17|AOD555|Aerosol optical depth at 555 nm, -, 0.001, -9|N|
 |18|AOD675|Aerosol optical depth at 675 nm, -, 0.001, -9|N|
 |19|H2O|Water vapor column @ 0 m, cm3 cm-2, 0.001, -9|N|
-|20|WD10|Horizontal Wind direction (10 deg resolution) @ 10 m, deg, 1., -9|N|
+|20|USTAR|Friction velocity, m s-1, 0.001, -9|N|
+|21|MOL|Monin-obukhov length, m, 0.001, -999999|N|
+|22|RHO|Air density of lowest model layer, kg m-3, 0.01, -9|N|
+|23|TEMP10|Air temperature at 10 m, K, 0.1, -9|N|
+|24|TSOIL|Uppermost soil layer temperature, K, 0.1, -9|N|
+|25|SNOWC|Fractional coverage of snow in grid cell, 0-1, 0.01, -9|N|
+|26|WETCAN|Canopy wetness, 0.0 if dry and 1.0 if wet, 0.1, -9|N|
+|27|SOILMOI|Near-surface soil moisture, m3/m3, 0.001, -9|N|
+|28|Z0|Surface Roughness, m, 0.001, -9|N|
+|29|ALB|Albedo, 0-1, 0.01, -9|N|
+|30|Z|Height above sea level, m, 0.1, -9|N|
+|31|FWET|Wet Surface, unitless fraction, 0.01, -9|N|
+|32|LAI-T|Total Leaf Area Index, m2 m-2, 0.01, -9|N|
+|33|WD10|Horizontal Wind direction (10 deg resolution) @ 10 m, deg, 1., -9|N|

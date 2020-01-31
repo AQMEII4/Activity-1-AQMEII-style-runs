@@ -24,3 +24,16 @@
 |17|AOD555|Aerosol optical depth at 555 nm, -, 0.001, -9|N / M,AVG / MD|
 |18|AOD675|Aerosol optical depth at 675 nm, -, 0.001, -9|N / M,AVG / MD|
 |19|H2O|Water vapor column @ 0 m, cm3 cm-2, 0.001, -9|N / M,AVG / MD|
+|20|USTAR|Friction velocity, m s-1, 0.001, -9|N / M,AVG / MD|
+|21|MOL|Monin-obukhov length, m, 0.001, -999999|N / M,AVG / MD|
+|22|RHO|Air density of lowest model layer, kg m-3, 0.01, -9|N / M,AVG / MD|
+|23|TEMP10|Air temperature at 10 m, K, 0.1, -9|N / M,AVG / MD|
+|24|TSOIL|Uppermost soil layer temperature, K, 0.1, -9|N / M,AVG / MD|
+|25|SNOWC|Fractional coverage of snow in grid cell, 0-1, 0.01, -9|N / M,AVG / MD|
+|26|WETCAN|Canopy wetness, 0.0 if dry and 1.0 if wet, 0.1, -9|N / M,AVG / MD|
+|27|SOILMOI|Near-surface soil moisture, m3/m3, 0.001, -9|N / M,AVG / MD|
+|28|Z0|Surface Roughness, m, 0.001, -9|N / M,AVG / MD|
+|29|ALB|Albedo, 0-1, 0.01, -9|N / M,AVG / MD|
+|30|Z|Height above sea level, m, 0.1, -9|N / M,AVG / MD|
+|31|FWET|Wet Surface, unitless fraction, 0.01, -9|N / M, AVG / P, AVG|
+|32|LAI-T|Total Leaf Area Index, m2 m-2, 0.01, -9|N / M, AVG / P, AVG|
