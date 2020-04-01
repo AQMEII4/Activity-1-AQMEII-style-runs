@@ -216,4 +216,10 @@ This appendix provides a list of FAQ for Activity 1. It was developed by Paul Ma
 
 [FAQ](./AQMEII4%20FAQ%20version%205_20200213.pdf)
 
+## Appendix 5
+
+This appendix provides an example of how to use CDO to regrid model output from its native grid to the common AQMEII4 latitude / longitude grid.
+
+[Regridding example](https://github.com/AQMEII4/Activity-1-AQMEII-style-runs/blob/master/OverarchingDocuments/RegriddingExamples/README.md)
+
 
