@@ -11,4 +11,5 @@
 - [Participant Call April 30, 2020](./AQMEII4_Activity1_ParticipantCallNotes_20200430.pdf)
 - [Participant Call May 28, 2020](./AQMEII4_Activity1_ParticipantCallNotes_20200528.pdf)
 - [Participant Call June 25, 2020](./AQMEII4_Activity1_ParticipantCallNotes_20200625.pdf)
+- [Participant Call August 20, 2020](./AQMEII4_Activity1_ParticipantCallNotes_20200820.pdf)
 
