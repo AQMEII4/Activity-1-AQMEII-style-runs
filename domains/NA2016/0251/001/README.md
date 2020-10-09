@@ -29,7 +29,7 @@
 |22|PM2_5_NI|Concentration of PM2.5 Nitrate @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |23|PM2_5_POA|Concentration of PM2.5 Primary Organic Aerosol @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |24|PM2_5_SOA|Concentration of PM2.5 Secondary Organic Aerosol @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
-|25|PM2_5_OC|Concentration of PM2.5 Organic Carbon (carbon mass only, both primary and secondary) @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
+|25|PM2_5_OC|Concentration of PM2.5 Organic Carbon (carbon mass only both primary and secondary) @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |26|PM2_5_EC|Concentration of PM2.5 Elemental Carbon (Black Carbon) @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |27|PM2_5_SS|Concentration of PM2.5 Sea Salt @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |28|PM2_5_CA|Concentration of PM2.5 Calcium @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
@@ -44,7 +44,7 @@
 |37|PM10_NI|Concentration of PM10 Nitrate @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |38|PM10_POA|Concentration of PM10 Primary Organic Aerosol @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |39|PM10_SOA|Concentration of PM10 Secondary Organic Aerosol @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
-|40|PM10_OC|Concentration of PM10 Organic Carbon (carbon mass only, both primary and secondary) @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
+|40|PM10_OC|Concentration of PM10 Organic Carbon (carbon mass only both primary and secondary) @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |41|PM10_EC|Concentration of PM10 Elemental Carbon (Black Carbon) @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |42|PM10_SS|Concentration of PM10 Sea Salt @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |43|PM10_CA|Concentration of PM10 Calcium @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
@@ -59,7 +59,7 @@
 |52|PMTOT_NI|Concentration of PMTOT Nitrate @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |53|PMTOT_POA|Concentration of PMTOT Primary Organic Aerosol @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |54|PMTOT_SOA|Concentration of PMTOT Secondary Organic Aerosol @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
-|55|PMTOT_OC|Concentration of PMTOT Organic Carbon (carbon mass only, both primary and secondary) @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
+|55|PMTOT_OC|Concentration of PMTOT Organic Carbon (carbon mass only both primary and secondary) @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |56|PMTOT_EC|Concentration of PMTOT Elemental Carbon (Black Carbon) @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |57|PMTOT_SS|Concentration of PMTOT Sea Salt @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
 |58|PMTOT_CA|Concentration of PMTOT Calcium @ 0 m, ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
@@ -92,3 +92,6 @@
 |85|E_SNOX|Accumulated emission of soil NO+NO2 as NO2, kg km-2, 0.1, -9|D, INT / Q, INT / M, INT|
 |86|E_SS|Accumulated emission of Sea Salt (all particle sizes), kg km-2, 0.1, -9|D, INT / Q, INT / M, INT|
 |87|E_WBDUST|Accumulated emission of Wind Blown Dust (all particle sizes), kg km-2, 0.1, -9|D, INT / Q, INT / M, INT|
+|88|PM2_5_WAT|Concentration of PM2.5 Water @ 0 m (if calculated), ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
+|89|PM10_WAT|Concentration of PM10 Water @ 0 m  (if calculated), ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
+|90|PMTOT_WAT|Concentration of PMTOT Water @ 0 m (if calculated), ug m-3, 0.001, -9|N / D, AVG / M, AVG / P, AVG|
