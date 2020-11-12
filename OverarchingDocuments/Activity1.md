@@ -212,9 +212,9 @@ This appendix provides example spatial maps of the requested output variables fr
 
 ## Appendix 4
 
-This appendix provides a list of FAQ for Activity 1. It was developed by Paul Makar following participant feedback during the [Hamburg workshop](https://github.com/AQMEII4/Activity-1-AQMEII-style-runs/blob/master/ParticipantCallNotes/AQMEII4_WorkshopNotes_20190926.pdf) in September 2019. It is being updated regularly by Paul Makar and Christian Hogrefe based on additional feedback obtained during [participant calls](https://github.com/AQMEII4/Activity-1-AQMEII-style-runs/blob/master/ParticipantCallNotes/ListOfCalls.md) and through email exchanges between participants.
+This appendix provides a list of errata, corrections, and FAQ for Activity 1. It was developed by Paul Makar following participant feedback during the [Hamburg workshop](https://github.com/AQMEII4/Activity-1-AQMEII-style-runs/blob/master/ParticipantCallNotes/AQMEII4_WorkshopNotes_20190926.pdf) in September 2019. It is being updated regularly by Paul Makar and Christian Hogrefe based on additional feedback obtained during [participant calls](https://github.com/AQMEII4/Activity-1-AQMEII-style-runs/blob/master/ParticipantCallNotes/ListOfCalls.md) and through email exchanges between participants.
 
-[FAQ](./AQMEII4%20FAQ%20version%205_20200213.pdf)
+[FAQ](./AQMEII4%20Errata_Corrections_FAQ%20version%206_20201111.pdf)
 
 ## Appendix 5
 
