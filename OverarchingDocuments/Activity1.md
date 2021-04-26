@@ -88,17 +88,28 @@ This activity of AQMEII4 relates to the regional scale simulations. Therefore ou
 _The space domains of the two common grids and the two years to be modelled are respectively for NA and EU:_
 
 NA:
-```
-130°W <-> 59.5°W, 23.5°N <-> 58.5°N,
 
-2010 and 2016
+The origin (lower left corner) of the NA domain is at xmin=130°W and ymin=23.5°N. The domain consists of nx=565 grid points in the West-East direction and ny=281 grid points in the South-North direction. Because the domain origin represents the lower left corner of the first grid cell, the center of that first grid cell (nx=1, ny=1) is at 129.9375°W and 23.5625°N, and its upper right corner is at 129.875°W and 23.625°N. The model values to be reported for the first grid cell (nx=1, ny=1) therefore represent the range 130°W <-> 129.875°W, 23.5°N <-> 23.625°N.
+
+Correspondingly, the total horizontal extent of the common NA domain, from the lower left corner of the first grid cell (nx=1, ny=1) to the upper right corner of the last grid cell (nx=565, ny=281), is defined as follows:
+
 ```
+130°W <-> 59.375°W, 23.5°N <-> 58.625°N,
+```
+
+The years to be modeled are 2010 and 2016.
+
 EU:
-```
-30 W <-> 60°E, 25°N <-> 70°N
 
-2009 and 2010 
+The origin (lower left corner) of the EU domain is at xmin=30°W and ymin=25°N. The domain consists of nx=721 grid points in the West-East direction and ny=361 grid points in the South-North direction. Because the domain origin represents the lower left corner of the first grid cell, the center of that first grid cell (nx=1, ny=1) is at 29.9375°W and 25.0625°N, and its upper right corner is at 29.875°W and 25.125°N. The model values to be reported for the first grid cell (nx=1, ny=1) therefore represent the range 30°W <-> 29.875°W, 25°N <-> 25.125°N.
+
+Correspondingly, the total horizontal extent of the common EU domain, from the lower left corner of the first grid cell (nx=1, ny=1) to the upper right corner of the last grid cell (nx=721, ny=361), is defined as follows:
+
 ```
+30 W <-> 60.125°E, 25°N <-> 70.125°N
+```
+The years to be modeled are 2009 and 2010.
+
 _Spatial resolution:_ 
 
 ```
