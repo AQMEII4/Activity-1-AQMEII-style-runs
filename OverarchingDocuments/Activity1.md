@@ -215,11 +215,15 @@ This appendix provides evidence of the importance of acquiring the components of
 
 ## Appendix 3
 
-This appendix provides example spatial maps of the requested output variables from several participating models. The current examples were provided by A. Lupascu for WRF-Chem and P. Makar for GEM-MACH.
+This appendix provides example spatial maps of the requested output variables from several participating models as well as selected presentatations given by AQMEII4 team members.
 
-[WRF-Chem Example](./WRF-Chem_Example_deposition_variables.pdf)
+[WRF-Chem Example, provided by A. Lupascu](./WRF-Chem_Example_deposition_variables.pdf)
 
-[GEM-MACH example](./GEM-MACH_Example-Net_Values_All.pdf)
+[GEM-MACH Example, provided by P. Makar](./GEM-MACH_Example-Net_Values_All.pdf)
+
+[Paul Makar's NADP 2021 Spring Meeting Presentation](./Makar_NADP_Spring2010_AQMEII4_Overview.pptx)
+
+[Christian Hogrefe's 2020 CMAS Conference Presentation](https://www.cmascenter.org/conference/2020/slides/HogrefeEtAl_CMAS_Presentation_AQMEII4_CMAQ_Final.pdf)
 
 ## Appendix 4
 
