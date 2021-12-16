@@ -26,3 +26,4 @@
 - [Participant Call September 9, 2021](./AQMEII4_Activity1_ParticipantCallNotes_20210909.pdf)
 - [Participant Call October 14, 2021](./AQMEII4_Activity1_ParticipantCallNotes_20211014.pdf)
 - [Participant Call November 18, 2021](./AQMEII4_Activity1_ParticipantCallNotes_20211118.pdf)
+- [Participant Call December 16, 2021](./AQMEII4_Activity1_ParticipantCallNotes_20211216.pdf)
