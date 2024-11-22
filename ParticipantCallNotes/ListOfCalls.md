@@ -60,3 +60,4 @@
 - [Participant Call July 11, 2024](./AQMEII4_Activies1and2_ParticipantCallNotes_20240711.pdf)
 - [Participant Call September 12, 2024](./AQMEII4_Activies1and2_ParticipantCallNotes_20240912.pdf)
 - [Participant Call October 10, 2024](./AQMEII4_Activies1and2_ParticipantCallNotes_20241010.pdf)
+- [Participant Call November 21, 2024](./AQMEII4_Activies1and2_ParticipantCallNotes_20241121.pdf)
