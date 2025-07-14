@@ -67,3 +67,4 @@
 - [Participant Call March 13, 2025](./AQMEII4_Activies1and2_ParticipantCallNotes_20250313.pdf)
 - [Participant Call April 10, 2025](./AQMEII4_Activies1and2_ParticipantCallNotes_20250410.pdf)
 - [Participant Call June 12, 2025](./AQMEII4_Activies1and2_ParticipantCallNotes_20250612.pdf)
+- [Participant Call July 10, 2025](./AQMEII4_Activies1and2_ParticipantCallNotes_20250710.pdf)
